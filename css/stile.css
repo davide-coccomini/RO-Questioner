@@ -1,0 +1,171 @@
+body
+{
+	background:#436E90;
+	font-family:sans-serif;
+}
+legend
+{
+	color:white;
+	font-weight:bold;
+	text-align:center;
+	font-size:20px;
+	margin:auto;
+}
+
+img
+{
+	margin-left:auto;
+}
+#logocontent
+{
+	width:8%;
+	margin:auto;
+	margin-bottom:4%;
+}
+textarea
+{
+	border:15px solid gray inset;
+	width:700px;
+	height:250px;
+}
+#wrapper
+{
+	margin-left:auto;
+    margin-right:auto;
+    width:900px;
+
+}
+#content
+{
+	width:100%;
+}
+#campibox
+{
+	margin:auto;
+	width:80%;
+}
+#materia
+{
+	margin-top:1%;
+	margin:0 auto;
+}
+#buttoncontent
+{
+	margin-left:25%;;
+}
+.pulsante
+{
+	width:200px;
+	height:50px;
+	margin-left:2%;
+	margin-top:1%;
+}
+
+#listacontent
+{
+	width:1000px;
+	height:590px;
+	margin:0 auto;
+}
+#box
+{
+
+	width:100%;
+	height:50%;
+	border:2px outset black;
+	background:white;
+}
+
+#topbox
+{
+	width:98%;
+	height:18%;
+	border-bottom:2px outset black;
+	background:#1C68A5;
+	padding:1%;
+}
+#data
+{
+	width:10%;
+	float:right;
+	color:white;
+}
+#domanda
+{
+	width:90%;
+	color:#7FFF00;
+	float:left;
+	overflow:auto;
+	height:100%;
+	
+}
+#risposta
+{
+	overflow:auto;
+	width:98%;
+	height:48%;
+	padding: 1%;
+}
+#pulsantelista
+{
+	margin-left:42%;
+}
+
+
+#menutop
+{
+	height:10%;
+	width:60%;
+	margin:0 auto;
+}
+#menutop ul
+ {
+	padding:0;
+    height: 100px;
+    width:100%;
+	list-style:none;
+	margin:0 auto;
+	margin-left:22%;
+}
+#menutop li {
+	margin: 0;
+	padding: 0;
+	width:150px;
+	height:10px;
+	line-height:50%;
+	margin-left:6.5%;
+	text-align:center;
+	margin-top:5%;
+	padding-bottom:2%;
+	float:left;
+	border-top:3px solid black;
+	border-left:3px solid black;
+	border-right:3px solid black;
+	background:#1C68A5;
+}
+#menutop a 
+{ 
+	color:white;
+	font-size:10pt;
+	padding-top:10px; 
+	padding-bottom:10px; 
+	display:block;
+}
+#menutop a:hover 
+{
+	color:#FAF0E6;
+}
+
+#menutop li:hover
+{
+	background:#3378AF;
+}
+#titolomateria
+{
+	width:100%;
+	text-align:center;
+}
+h1
+{
+	color:White;
+}
